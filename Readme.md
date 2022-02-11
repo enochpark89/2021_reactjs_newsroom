@@ -26,4 +26,11 @@ npm add prop-types
 ```
 npm add axios
 ```
-4. 
+4. Install Styled Components
+5. Set the globalstyle
+6. Create a Container
+- Center align the contents
+7. Create Header
+8. Create Horizontal Line below
+9. Create a articleContainer.
+10. Arrange the items inside an article container so that it would present a nice news feed. 
